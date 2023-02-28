@@ -1,0 +1,3 @@
+# Hello Rust!
+
+![](ferris.gif)
